@@ -1,0 +1,22 @@
+#add_btn {
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+li {
+    margin: 20px 0px;
+    list-style-type: none;
+}
+
+.delete-btns {
+
+    position: absolute;
+    left: 350px;
+    background-color: grey;
+    cursor: pointer;
+
+    
+}
+#text {
+    color: green;
+}
